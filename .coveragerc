@@ -1,0 +1,6 @@
+[run]
+include = sistema/*
+omit = *migrations*, *tests*, *.html
+plugins =
+    django_coverage_plugin
+disable_warnings = already-imported
