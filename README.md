@@ -1,6 +1,4 @@
 Sistema
 ==============================
 
-Gerenciamento de vendas
-
-For more information, see TODO.
+Gerenciamento de clientes, produtos, compras e vendas
